@@ -5,7 +5,9 @@
 ## Install Package
 - Install-Package Microsoft.EntityFrameworkCore.SqlServer
 - Install-Package Microsoft.EntityFrameworkCore.Tools
-- Install-Package Microsoft.EntityFrameworkCore.Tools
+- Microsoft.AspNetCore.Identity
+- Microsoft.Extensions.Configuration.FileExtensions
+- Microsoft.Extensions.Configuration.Json
 ## Youtube Tutorial
 ## How to config
 ## Howto contribute

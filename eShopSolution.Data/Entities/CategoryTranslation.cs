@@ -18,5 +18,6 @@ namespace eShopSolution.Data.Entities
 
         public Language Language { get; set; }
 
+        
     }
 }
